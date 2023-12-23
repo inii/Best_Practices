@@ -1,0 +1,671 @@
+-target:library
+-out:"Library/Bee/artifacts/1900b0aEDbg.dag/Fantasy.Unity.dll"
+-refout:"Library/Bee/artifacts/1900b0aEDbg.dag/Fantasy.Unity.ref.dll"
+-define:UNITY_2022_3_6
+-define:UNITY_2022_3
+-define:UNITY_2022
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_2017_1_OR_NEWER
+-define:UNITY_2017_2_OR_NEWER
+-define:UNITY_2017_3_OR_NEWER
+-define:UNITY_2017_4_OR_NEWER
+-define:UNITY_2018_1_OR_NEWER
+-define:UNITY_2018_2_OR_NEWER
+-define:UNITY_2018_3_OR_NEWER
+-define:UNITY_2018_4_OR_NEWER
+-define:UNITY_2019_1_OR_NEWER
+-define:UNITY_2019_2_OR_NEWER
+-define:UNITY_2019_3_OR_NEWER
+-define:UNITY_2019_4_OR_NEWER
+-define:UNITY_2020_1_OR_NEWER
+-define:UNITY_2020_2_OR_NEWER
+-define:UNITY_2020_3_OR_NEWER
+-define:UNITY_2021_1_OR_NEWER
+-define:UNITY_2021_2_OR_NEWER
+-define:UNITY_2021_3_OR_NEWER
+-define:UNITY_2022_1_OR_NEWER
+-define:UNITY_2022_2_OR_NEWER
+-define:UNITY_2022_3_OR_NEWER
+-define:PLATFORM_ARCH_64
+-define:UNITY_64
+-define:UNITY_INCLUDE_TESTS
+-define:ENABLE_AR
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_TEXTURE_STREAMING
+-define:ENABLE_VIRTUALTEXTURING
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_EDITOR_GAME_SERVICES
+-define:ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_HUB_LICENSE
+-define:ENABLE_WEBSOCKET_CLIENT
+-define:ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API
+-define:ENABLE_DIRECTOR_AUDIO
+-define:ENABLE_DIRECTOR_TEXTURE
+-define:ENABLE_MANAGED_JOBS
+-define:ENABLE_MANAGED_TRANSFORM_JOBS
+-define:ENABLE_MANAGED_ANIMATION_JOBS
+-define:ENABLE_MANAGED_AUDIO_JOBS
+-define:ENABLE_MANAGED_UNITYTLS
+-define:INCLUDE_DYNAMIC_GI
+-define:ENABLE_SCRIPTING_GC_WBARRIERS
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_VIDEO
+-define:ENABLE_ACCELERATOR_CLIENT_DEBUGGING
+-define:ENABLE_NAVIGATION_PACKAGE_DEBUG_VISUALIZATION
+-define:ENABLE_NAVIGATION_HEIGHTMESH_RUNTIME_SUPPORT
+-define:ENABLE_NAVIGATION_UI_REQUIRES_PACKAGE
+-define:PLATFORM_STANDALONE
+-define:TEXTCORE_1_0_OR_NEWER
+-define:PLATFORM_STANDALONE_WIN
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_NVIDIA
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_OUT_OF_PROCESS_CRASH_HANDLER
+-define:ENABLE_CLUSTER_SYNC
+-define:ENABLE_CLUSTERINPUT
+-define:PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP
+-define:GFXDEVICE_WAITFOREVENT_MESSAGEPUMP
+-define:PLATFORM_INITIALIZES_MEMORY_MANAGER_EXPLICITLY
+-define:ENABLE_MONO
+-define:NET_STANDARD_2_0
+-define:NET_STANDARD
+-define:NET_STANDARD_2_1
+-define:NETSTANDARD
+-define:NETSTANDARD2_1
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:ENABLE_UNITY_COLLECTIONS_CHECKS
+-define:ENABLE_BURST_AOT
+-define:UNITY_TEAM_LICENSE
+-define:ENABLE_CUSTOM_RENDER_TEXTURE
+-define:ENABLE_DIRECTOR
+-define:ENABLE_LOCALIZATION
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_TILEMAP
+-define:ENABLE_TIMELINE
+-define:ENABLE_LEGACY_INPUT_MANAGER
+-define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
+-define:CSHARP_7_OR_LATER
+-define:CSHARP_7_3_OR_NEWER
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEditor.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEditor.EditorToolbarModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphViewModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEditor.PresetsUIModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEditor.QuickSearchModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneTemplateModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneViewModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreFontEngineModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreTextEngineModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIBuilderModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsSamplesModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.ContentLoadModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.GIModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.HotReloadModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputLegacyModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.ProfilerModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.PropertiesModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.StreamingModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubstanceModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreFontEngineModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreTextEngineModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.TLSModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.UmbraModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsCommonModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityCurlModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.VFXModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Data.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Drawing.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.IO.Compression.FileSystem.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Net.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Numerics.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Runtime.Serialization.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ServiceModel.Web.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Transactions.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Web.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Windows.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Linq.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Xml.Serialization.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/Microsoft.Win32.Primitives.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.AppContext.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Buffers.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Concurrent.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.NonGeneric.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Collections.Specialized.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.EventBasedAsync.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.Primitives.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ComponentModel.TypeConverter.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Console.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Data.Common.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Contracts.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Debug.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.FileVersionInfo.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Process.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.StackTrace.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TextWriterTraceListener.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tools.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.TraceSource.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Diagnostics.Tracing.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Drawing.Primitives.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Dynamic.Runtime.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Calendars.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Globalization.Extensions.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Compression.ZipFile.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.DriveInfo.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Primitives.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.FileSystem.Watcher.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.IsolatedStorage.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.MemoryMappedFiles.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.Pipes.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.IO.UnmanagedMemoryStream.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Expressions.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Parallel.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Linq.Queryable.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Memory.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Http.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NameResolution.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.NetworkInformation.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Ping.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Primitives.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Requests.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Security.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.Sockets.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebHeaderCollection.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.Client.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Net.WebSockets.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Numerics.Vectors.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ObjectModel.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.DispatchProxy.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.ILGeneration.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Emit.Lightweight.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Extensions.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Reflection.Primitives.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Reader.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.ResourceManager.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Resources.Writer.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.CompilerServices.VisualC.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Extensions.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Handles.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.InteropServices.RuntimeInformation.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Numerics.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Formatters.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Json.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Primitives.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Runtime.Serialization.Xml.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Claims.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Algorithms.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Csp.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Encoding.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.Primitives.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Cryptography.X509Certificates.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.Principal.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Security.SecureString.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.Encoding.Extensions.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Text.RegularExpressions.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Overlapped.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Extensions.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Tasks.Parallel.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Thread.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.ThreadPool.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Threading.Timer.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.ValueTuple.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.ReaderWriter.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XDocument.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlDocument.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XmlSerializer.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.XDocument.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
+-r:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
+-r:"Library/PackageCache/com.unity.collab-proxy@2.0.5/Lib/Editor/PlasticSCM/log4netPlastic.dll"
+-r:"Library/PackageCache/com.unity.collab-proxy@2.0.5/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll"
+-r:"Library/PackageCache/com.unity.collab-proxy@2.0.5/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll"
+-r:"Library/PackageCache/com.unity.collab-proxy@2.0.5/Lib/Editor/PlasticSCM/unityplastic.dll"
+-r:"Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll"
+-r:"Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll"
+-r:"Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll"
+-r:"Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll"
+-r:"Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Mathematics.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
+-analyzer:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
+-analyzer:"D:/Program Files/Unity/2022.3.6f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Application.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/AssetBundle/AssetBundleCheck/AssetBundleCheckStage.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/AssetBundle/AssetBundleCheck/AssetBundleUpdate.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/AssetBundle/AssetBundleCheck/AssetBundleVersionInfo.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/AssetBundle/AssetBundleHelper.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/AssetBundle/AssetBundleInfo.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/AssetBundle/UpdateAssetBundle.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Audio/AudioComponent.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Audio/AudioManageComponent.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Define.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Entry.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Fantasy.Download/AUnityDownload.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Fantasy.Download/Download.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Fantasy.Download/DownloadAssetBundle.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Fantasy.Download/DownloadAudioClip.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Fantasy.Download/DownloadByte.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Fantasy.Download/DownloadSprite.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Fantasy.Download/DownloadText.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Fantasy.Download/DownloadTexture.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/BclHelpers.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/BufferExtension.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/BufferPool.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/CallbackAttributes.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Compiler/CompilerContext.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Compiler/CompilerDelegates.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Compiler/Local.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/DataFormat.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/DiscriminatedUnion.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/DiscriminatedUnion.Serializable.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Extensible.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/ExtensibleUtil.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/GlobalSuppressions.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Helpers.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/IExtensible.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/IExtension.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/ImplicitFields.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/IProtoInputT.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/IProtoOutputT.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/KeyValuePairProxy.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Meta/AttributeMap.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Meta/BasicList.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Meta/CallbackSet.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Meta/MetaType.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Meta/ProtoSyntax.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Meta/RuntimeTypeModel.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Meta/SubType.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Meta/TypeAddedEventArgs.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Meta/TypeFormatEventArgs.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Meta/TypeModel.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Meta/TypeModel.InputOutput.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Meta/ValueMember.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/NetObjectCache.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/PrefixStyle.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/ProtoContractAttribute.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/ProtoConverterAttribute.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/ProtoEnumAttribute.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/ProtoException.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/ProtoIgnoreAttribute.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/ProtoIncludeAttribute.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/ProtoMapAttribute.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/ProtoMemberAttribute.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/ProtoReader.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/ProtoWriter.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/SerializationContext.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/ArrayDecorator.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/BlobSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/BooleanSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/ByteSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/CharSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/CompiledSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/DateTimeSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/DecimalSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/DefaultValueDecorator.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/DoubleSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/EnumSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/FieldDecorator.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/GuidSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/ImmutableCollectionDecorator.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/Int16Serializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/Int32Serializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/Int64Serializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/IProtoSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/IProtoTypeSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/ISerializerProxy.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/ListDecorator.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/MapDecorator.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/MemberSpecifiedDecorator.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/NetObjectSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/NullDecorator.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/ParseableSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/PropertyDecorator.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/ProtoDecoratorBase.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/ReflectedUriDecorator.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/SByteSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/SingleSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/StringSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/SubItemSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/SurrogateSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/SystemTypeSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/TagDecorator.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/TimeSpanSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/TupleSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/TypeSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/UInt16Serializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/UInt32Serializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/UInt64Serializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/Serializers/UriDecorator.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/ServiceModel/ProtoBehaviorAttribute.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/ServiceModel/ProtoBehaviorExtensionElement.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/ServiceModel/ProtoEndpointBehavior.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/ServiceModel/ProtoOperationBehavior.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/ServiceModel/XmlProtoSerializer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/SubItemToken.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/Protobuf-net/WireType.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/UI/Core/FantasyUI.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/UI/Core/UI.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/UI/Core/UIComponent.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/UI/Core/UILayer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/UI/Core/UILayerComponent.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.App/UI/Extend/ButtonExtend.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Assembly/AssemblyInfo.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Assembly/AssemblyManager.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/CoreErrorCode.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/CoroutineLock/CoroutineLockQueue.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/CoroutineLock/CoroutineLockQueueType.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/CoroutineLock/WaitCoroutineLock.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataBase/Base/IDateBase.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataBase/Base/World.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataBase/Base/WorldConfigInfo.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataBase/MongoDataBase.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Collection/CircularBuffer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Collection/ConcurrentOneToManyList.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Collection/ConcurrentOneToManyQueue.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Collection/EntityList.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Collection/HashSetPool.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Collection/ListPool.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Collection/OneToManyHashSet.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Collection/OneToManyList.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Collection/OneToManyQueue.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Collection/PriorityQueue.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Collection/ReuseList.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Collection/SortedConcurrentOneToManyList.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Collection/SortedOneToManyHashSet.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Collection/SortedOneToManyList.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Dictionary/DictionaryExtensions.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Dictionary/DictionaryPool.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Dictionary/DoubleMapDictionary.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Dictionary/EntityDictionary.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Dictionary/OneToManyDictionary.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Dictionary/OneToManySortedDictionary.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/Dictionary/ReuseDictionary.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/SkipTable/SkipTable.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/SkipTable/SkipTableBase.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/SkipTable/SkipTableDesc.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/DataStructure/SkipTable/SkipTableNode.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Define.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/EntitiesSystem.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/Entity.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/EntityReference.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/Interface/Supported/INotSupportedPool.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/Interface/Supported/ISingleCollectionRoot.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/Interface/Supported/ISupportedDataBase.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/Interface/Supported/ISupportedMultiEntity.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/Interface/Supported/ISupportedSingleCollection.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/Interface/Supported/ISupportedTransfer.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/Interface/System/AwakeSystem.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/Interface/System/IDeserializeSystem.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/Interface/System/IDestroySystem.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/Interface/System/IEntitiesSystem.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/Interface/System/IUpdateSystem.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/Scene/Scene.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/Scene/SceneEvent.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/Unity/Attributes/BsonDefaultValueAttribute.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/Unity/Attributes/BsonElementAttribute.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/Unity/Attributes/BsonIdAttribute.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/Unity/Attributes/BsonIgnoreAttribute.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/Unity/Attributes/BsonIgnoreIfDefaultAttribute.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Entitas/Unity/Attributes/BsonIgnoreIfNullAttribute.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/EventSystem/EventSystem.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/EventSystem/Interface/IEvent.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Exporter/Excel/ClientConfigTableManage.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Exporter/Excel/Dictionary/IntDictionaryConfig.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Exporter/Excel/Dictionary/StringDictionaryConfig.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Exporter/Excel/ServerConfigTableManage.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Exporter/Interface/IConfigTable.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/FantasySettingsHelper.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Helper/AudioHelper.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Helper/ByteHelper.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Helper/CryptHelper.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Helper/FileHelper.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Helper/JsonHelper.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Helper/MD5Helper.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Helper/MemoryStreamHelper.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Helper/Mongo/MongoHelper.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Helper/Mongo/StructBsonSerialize.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Helper/Proto/AProto.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Helper/Proto/ProtoBufHelper.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Helper/RandomHelper.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Helper/TimeHelper.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/IdFactory/EntityIdStruct.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/IdFactory/IdFactory.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/IdFactory/RouteIdStruct.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/IdFactory/RuntimeIdStruct.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Log/ILog.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Log/Log.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Log/NLog.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Log/UnityLog.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Modules/Route/LinkEntityComponent.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Modules/Session/SessionHeartbeatComponent.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Modules/Session/SessionIdleCheckerComponent.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Base/Enum/NetworkProtocolType.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Base/Enum/NetworkTarget.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Base/Enum/NetworkType.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Base/Helper/NetworkHelper.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Base/Interface/AClientNetwork.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Base/Interface/ANetwork.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Base/Interface/ANetworkChannel.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Base/Interface/INetworkUpdate.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Base/Server/MachineConfigInfo.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Base/Server/SceneConfigInfo.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Base/Server/Server.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Base/Server/ServerConfigInfo.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Base/SocketExtensions.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Entity/ClientNetworkComponent.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Entity/ServerNetworkComponent.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Entity/Session/ServerInnerSession.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Entity/Session/Session.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Exception/ScanException.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Addressable/AddressableHelper.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Addressable/AddressableManageComponent.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Addressable/AddressableMessageComponent.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Addressable/AddressableRouteComponent.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Addressable/Handler/I_AddressableAddHandler.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Addressable/Handler/I_AddressableGetHandler.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Addressable/Handler/I_AddressableLockHandler.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Addressable/Handler/I_AddressableRemoveHandler.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Addressable/Handler/I_AddressableUnLockHandler.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Dispatcher/MessageDispatcherSystem.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Dispatcher/Opcode.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Dispatcher/Response.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Interface/Handler/IMessageHandler.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Interface/Handler/IRouteMessageHandler.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Interface/Protocol/IBsonMessage.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Interface/Protocol/IMessage.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Interface/Protocol/IPoolMessage.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Interface/Protocol/IRouteMessage.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Interface/Scheduler/ANetworkMessageScheduler.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Interface/Scheduler/INetworkMessageSchedulerHandler.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/MessageHelper.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/MessageSender.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/OnNetworkMessageUpdateCheckTimeout.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Protocols/CoreMessageProtocols.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Route/RouteComponent.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Scheduler/ClientMessageScheduler.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Scheduler/CoreRouteType.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Scheduler/InnerMessageScheduler.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/Message/Scheduler/OuterMessageScheduler.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/NetworkProtocol/KCP/Base/kcp2k/kcp/AckItem.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/NetworkProtocol/KCP/Base/kcp2k/kcp/AssemblyInfo.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/NetworkProtocol/KCP/Base/kcp2k/kcp/Kcp.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/NetworkProtocol/KCP/Base/kcp2k/kcp/Pool.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/NetworkProtocol/KCP/Base/kcp2k/kcp/Segment.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/NetworkProtocol/KCP/Base/kcp2k/kcp/Utils.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/NetworkProtocol/KCP/Base/KcpHeader.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/NetworkProtocol/KCP/Base/KCPSettings.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/NetworkProtocol/KCP/Client/KCPClientNetwork.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/NetworkProtocol/KCP/Server/KCPServerNetwork.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/NetworkProtocol/KCP/Server/KCPServerNetworkChannel.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/NetworkProtocol/TCP/Client/TCPClientNetwork.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/NetworkProtocol/TCP/Server/TCPServerNetwork.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/NetworkProtocol/TCP/Server/TCPServerNetworkChannel.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/NetworkThread/NetAction.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/NetworkThread/NetworkThread.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/PacketParser/InnerPacketParser.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/PacketParser/Interface/APacketParser.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/PacketParser/Interface/APackInfo.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/PacketParser/OuterPacketParser.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Network/PacketParser/Packet.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Pool/ConcurrentPool.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Pool/Pool.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Pool/PoolCore.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Pool/PoolWithDisposable.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/RecyclableMemoryStream/EventArgs.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/RecyclableMemoryStream/Events.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/RecyclableMemoryStream/RecyclableMemoryStream.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/RecyclableMemoryStream/RecyclableMemoryStreamManager.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/SingleCollection/SingleCollection.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Singleton/Interface/ISingleton.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Singleton/Interface/IUpdateSingleton.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Singleton/Singleton.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Singleton/SingletonSystem.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/SynchronizationContext/ThreadSynchronizationContext.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Task/Builder/AsyncFTaskCompletedMethodBuilder.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Task/Builder/AsyncFTaskMethodBuilder.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Task/Builder/AsyncFVoidMethodBuilder.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Task/FCancellationToken.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Task/FTask.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Task/FTaskCompleted.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Task/FVoid.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Task/Partial/FTask.Factory.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Task/Partial/FTask.Pool.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/Task/Partial/FTask.WhenAll.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/TimerScheduler/Interface/TimerHandler.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/TimerScheduler/TimerAction.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/TimerScheduler/TimerScheduler.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/TimerScheduler/TimerSchedulerCore.cs"
+"D:/Data/git/Fantasy/Unity/Fantasy.Unity/Runtime/Fantasy.Core/TimerScheduler/TimerType.cs"
+-langversion:9.0
+/unsafe+
+/deterministic
+/optimize-
+/debug:portable
+/nologo
+/RuntimeMetadataVersion:v4.0.30319
+
+/nowarn:0169
+/nowarn:0649
+/nowarn:0282
+/nowarn:1701
+/nowarn:1702
+-define:FANTASY_UNITY
+/utf8output
+/preferreduilang:en-US
+
+
+
+/additionalfile:"Library/Bee/artifacts/1900b0aEDbg.dag/Fantasy.Unity.UnityAdditionalFile.txt"

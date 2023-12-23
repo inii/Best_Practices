@@ -1,0 +1,7 @@
+2023-10-20 19:37:15.5820 not found server by Id:0
+   at Fantasy.Server.Create(UInt32 serverConfigId) in E:\Project\Best_Practices\Fantasy.Net\Runtime\Fantasy.Core\Network\Base\Server\Server.cs:line 151
+   at Fantasy.Server.Create(UInt32 serverConfigId)
+   at Fantasy.Application.Start() in E:\Project\Best_Practices\Fantasy.Net\Runtime\Fantasy.App\Application.cs:line 96
+   at Fantasy.Application.Start()
+   at Program.<Main>$(String[] args) in E:\Project\Best_Practices\BestGame\Server\App\Program.cs:line 32
+

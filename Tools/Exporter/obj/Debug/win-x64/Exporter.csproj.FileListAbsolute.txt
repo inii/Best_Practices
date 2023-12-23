@@ -1,0 +1,16 @@
+D:\Data\git\Fantasy\Tools\Bin\win-x64\Exporter.exe
+D:\Data\git\Fantasy\Tools\Bin\win-x64\Exporter.deps.json
+D:\Data\git\Fantasy\Tools\Bin\win-x64\Exporter.runtimeconfig.json
+D:\Data\git\Fantasy\Tools\Bin\win-x64\Exporter.dll
+D:\Data\git\Fantasy\Tools\Bin\win-x64\Exporter.pdb
+D:\Data\git\Fantasy\Tools\Exporter\obj\Debug\win-x64\Exporter.csproj.AssemblyReference.cache
+D:\Data\git\Fantasy\Tools\Exporter\obj\Debug\win-x64\Exporter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\git\Fantasy\Tools\Exporter\obj\Debug\win-x64\Exporter.AssemblyInfoInputs.cache
+D:\Data\git\Fantasy\Tools\Exporter\obj\Debug\win-x64\Exporter.AssemblyInfo.cs
+D:\Data\git\Fantasy\Tools\Exporter\obj\Debug\win-x64\Exporter.csproj.CoreCompileInputs.cache
+D:\Data\git\Fantasy\Tools\Exporter\obj\Debug\win-x64\Exporter.csproj.CopyComplete
+D:\Data\git\Fantasy\Tools\Exporter\obj\Debug\win-x64\Exporter.dll
+D:\Data\git\Fantasy\Tools\Exporter\obj\Debug\win-x64\refint\Exporter.dll
+D:\Data\git\Fantasy\Tools\Exporter\obj\Debug\win-x64\Exporter.pdb
+D:\Data\git\Fantasy\Tools\Exporter\obj\Debug\win-x64\Exporter.genruntimeconfig.cache
+D:\Data\git\Fantasy\Tools\Exporter\obj\Debug\win-x64\ref\Exporter.dll
