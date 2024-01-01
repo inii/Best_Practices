@@ -182,6 +182,7 @@ namespace Fantasy
 	[ProtoContract]
 	public partial class MoveInfo : AProto
 	{
+		public uint OpCode() { return OuterOpcode.MoveInfo; }
 		[ProtoMember(1)]
 		public float X { get; set; }
 		[ProtoMember(2)]
